@@ -97,7 +97,7 @@ class FormSchemaGenerator:
 
 
 if __name__ == "__main__":
-    generator = FormSchemaGenerator(typeform_pat='5DTEdXtH2oAHnmEh7fxVEVBuyh3p7ernSdwUZodHkBxt',
+    generator = FormSchemaGenerator(typeform_pat='[TYPEFORM PAT here...]',
                                     form_id='K4jATn6A', question_weights=QUESTION_WEIGHTS)
     print(json.dumps(generator.generate_score_scale(target_file='./score_scale.json'), indent=2))
     print(json.dumps(generator.generate_schema(target_file='./interpreter_schema.json'), indent=2))

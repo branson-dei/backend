@@ -1,0 +1,627 @@
+{
+    "a0PDsvb7bUX5": {
+        "id": "a0PDsvb7bUX5",
+        "hrn": "How often did you or do you make your own meals?",
+        "weights": [
+            6,
+            2,
+            2,
+            1,
+            1
+        ],
+        "option_ids": [
+            "H6Ny6MfXQUUm",
+            "Af1dmlHSITyg",
+            "JXkc4CJ8dnQW",
+            "1pJLqQLmfG2p",
+            "CaEgkLhm6x5p"
+        ],
+        "option_vals": [
+            "Never",
+            "Few times/month",
+            "Few times/week",
+            "Frequently/week",
+            "Daily"
+        ]
+    },
+    "mThwNfSJJnMe": {
+        "id": "mThwNfSJJnMe",
+        "hrn": "How often, and in what quantity, did you or do you engage in artistic activities? Examples: painting, graffiti art, dancing, writing poetry, music, creating games, designing something new, etc.",
+        "weights": [
+            6,
+            2,
+            2,
+            1,
+            1
+        ],
+        "option_ids": [
+            "r9l6p4j8cViK",
+            "zfRdM43lGAKf",
+            "WACiyKakUhe4",
+            "pbZJF9K98UT3",
+            "c2HjVHQvXBoO"
+        ],
+        "option_vals": [
+            "Never",
+            "Few times/month",
+            "Few times/week",
+            "Frequently/week",
+            "Daily"
+        ]
+    },
+    "rg637ttWpniN": {
+        "id": "rg637ttWpniN",
+        "hrn": "How often do you use your imagination? (For example, you make up games or songs, work on puzzles, etc)",
+        "weights": [
+            6,
+            2,
+            2,
+            1,
+            1
+        ],
+        "option_ids": [
+            "Vzd8sJPe8t6j",
+            "Oiizqz4jHy1H",
+            "uHRlN9qeaYt4",
+            "Ortbchb1potZ",
+            "CT0kbDbUiPb1"
+        ],
+        "option_vals": [
+            "Never",
+            "Few times/month",
+            "Few times/week (at school or home)",
+            "Frequently/week (at school or home)",
+            "Daily"
+        ]
+    },
+    "s62Oq9OBFDgr": {
+        "id": "s62Oq9OBFDgr",
+        "hrn": "How often did you or do you spend time preparing how you look before you leave your home? ",
+        "weights": [
+            6,
+            4,
+            6,
+            4,
+            2
+        ],
+        "option_ids": [
+            "iJMbQ7WvI2us",
+            "89lIdOWcM5o2",
+            "U4YgIgU9fy6F",
+            "D4hj6wTo6icX",
+            "DrS3bLLTmUlg"
+        ],
+        "option_vals": [
+            "Never",
+            "Few times/month",
+            "Few times/week (at school or home)",
+            "Frequently/week (at school or home)",
+            "Daily"
+        ]
+    },
+    "exhCZsYfm8oU": {
+        "id": "exhCZsYfm8oU",
+        "hrn": "How many of the following responsibilities did you or do you have in a TYPICAL DAY? \nCooking for yourself or others; washing dishes; doing laundry; taking care of siblings, children, or elders; cleaning house; doing yard work; walking a pet, or taking out the trash. ",
+        "weights": [
+            6,
+            4,
+            4,
+            4,
+            2
+        ],
+        "option_ids": [
+            "fa0CBdEuR4zG",
+            "J0K4E5skuRHn",
+            "ogzRfcd8qcE0",
+            "ZDtsCvDTdV6H",
+            "S9oAx6YyX6Bx"
+        ],
+        "option_vals": [
+            "0 responsibilities",
+            "1-2 responsibilities",
+            "3-4 responsibilities",
+            "5-6 responsibilities",
+            "7+ responsibilities"
+        ]
+    },
+    "nIX74PERhDvx": {
+        "id": "nIX74PERhDvx",
+        "hrn": "How many times have you had to deal with the death of someone close to you?",
+        "weights": [
+            1,
+            6,
+            6,
+            2,
+            1
+        ],
+        "option_ids": [
+            "4im14uvP70Ke",
+            "albYKZ73bVWL",
+            "tXc8cVpg7sgG",
+            "VFiBOmVv6ho2",
+            "mhkvAiB5I7iz"
+        ],
+        "option_vals": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "3+"
+        ]
+    },
+    "H2jez0o8a11Q": {
+        "id": "H2jez0o8a11Q",
+        "hrn": "How often do you have accidents or have an illness requiring medical treatment/visiting a doctor/wellness practitioner?",
+        "weights": [
+            2,
+            6,
+            6,
+            1,
+            2
+        ],
+        "option_ids": [
+            "PtkOyak6zFkH",
+            "o5cpBNS8YHB2",
+            "PKvV2ROYrSmo",
+            "eHboEx3o5NCx",
+            "utHbVYM0FyRN"
+        ],
+        "option_vals": [
+            "Never",
+            "Few times/year",
+            "A lot/year",
+            "Few times/month",
+            "Weekly or Daily"
+        ]
+    },
+    "sHJUSbqlLt9a": {
+        "id": "sHJUSbqlLt9a",
+        "hrn": "How often do you spend the evenings/weekends with a different guardian/caretaker/parent(s)?",
+        "weights": [
+            2,
+            6,
+            6,
+            2,
+            1
+        ],
+        "option_ids": [
+            "5pawS2IJ8gvs",
+            "NPM40z19gnmf",
+            "0S1dgQC9PkI8",
+            "E7y5SqQsEYxC",
+            "xGTMJNBfw5Tb"
+        ],
+        "option_vals": [
+            "Never",
+            "Rarely",
+            "During the weekends",
+            "Few times/week",
+            "Daily"
+        ]
+    },
+    "1DqxPlq5Qyod": {
+        "id": "1DqxPlq5Qyod",
+        "hrn": "How often do you avoid certain people so you aren't bullied or harassed?",
+        "weights": [
+            2,
+            6,
+            6,
+            2,
+            2
+        ],
+        "option_ids": [
+            "M0lrbBjCiieC",
+            "tJZyY0EJDkjp",
+            "NjHZrqokzTMo",
+            "PtHAyBwQFbty",
+            "FwuQeIylDTmu"
+        ],
+        "option_vals": [
+            "Never",
+            "Rarely",
+            "Few times/week",
+            "A lot/week",
+            "Daily"
+        ]
+    },
+    "W5F5Hwq3odcm": {
+        "id": "W5F5Hwq3odcm",
+        "hrn": "How often have you experienced/witnessed any forms of violence?",
+        "weights": [
+            1,
+            6,
+            6,
+            1,
+            1
+        ],
+        "option_ids": [
+            "QzpwWSjQaOjH",
+            "32kP2vWtegYk",
+            "9FKiZfYFQEBB",
+            "DMsfYpXbjmki",
+            "UZpK8iO525lv"
+        ],
+        "option_vals": [
+            "Never",
+            "Rarely",
+            "Few times/week",
+            "A lot/week",
+            "Daily"
+        ]
+    },
+    "FhkBATijrbXE": {
+        "id": "FhkBATijrbXE",
+        "hrn": "How often do you take care of siblings/relatives?",
+        "weights": [
+            2,
+            4,
+            6,
+            2,
+            2
+        ],
+        "option_ids": [
+            "c6KfgRWwAaF7",
+            "rBDmDyHL7Ozi",
+            "FvGJQ3SuugFU",
+            "r00eKqqbGghg",
+            "iuXOogBwJMw0"
+        ],
+        "option_vals": [
+            "Never",
+            "Few times/month",
+            "Few times/week",
+            "A lot/week",
+            "Daily"
+        ]
+    },
+    "zK6Xll7O308C": {
+        "id": "zK6Xll7O308C",
+        "hrn": "How often do you experience sudden changes to your routines without your input?",
+        "weights": [
+            2,
+            6,
+            6,
+            4,
+            2
+        ],
+        "option_ids": [
+            "B2cfOI3ZNM18",
+            "cCMJGCY2sr0l",
+            "mRFNeD4GKcF2",
+            "dwd8fT9tYHhN",
+            "r55uGAIbismj"
+        ],
+        "option_vals": [
+            "Never",
+            "Few times/month",
+            "Few times/week",
+            "A lot/week",
+            "Daily"
+        ]
+    },
+    "MDQ2Cw0PslYP": {
+        "id": "MDQ2Cw0PslYP",
+        "hrn": "Whether you have a younger sibling or not, how often would you feel they are safe at school?",
+        "weights": [
+            1,
+            6,
+            6,
+            1,
+            1
+        ],
+        "option_ids": [
+            "rJuWKzvdeQKj",
+            "iKMiPMokIRYa",
+            "GO64K6XyB15v",
+            "3e4P37CDMQct",
+            "oWyTzc51zIdW"
+        ],
+        "option_vals": [
+            "Never",
+            "Few times/month",
+            "Few times/week",
+            "A lot/week",
+            "Daily"
+        ]
+    },
+    "FZqUJNbkV6l1": {
+        "id": "FZqUJNbkV6l1",
+        "hrn": "How often must you adjust your schedule because of weather?",
+        "weights": [
+            4,
+            6,
+            6,
+            4,
+            2
+        ],
+        "option_ids": [
+            "Z7mLIMwkyc30",
+            "aGJjKTKH04as",
+            "6j2PGcc8yJo1",
+            "xxuyxt7dWk2b",
+            "gjlW0mIHQydE"
+        ],
+        "option_vals": [
+            "Never",
+            "Few times/year",
+            "A lot/year",
+            "Frequently/month",
+            "Daily or Weekly"
+        ]
+    },
+    "WK8jvMEnCpNC": {
+        "id": "WK8jvMEnCpNC",
+        "hrn": "How often do you make adjustments because of disability (personal/family)?",
+        "weights": [
+            4,
+            6,
+            6,
+            4,
+            2
+        ],
+        "option_ids": [
+            "6DDO2DZMI3hA",
+            "zk9TVGmOQzpu",
+            "pbsNonA2lasH",
+            "aBMp1CwsbaeK",
+            "JgSlpJjsFRT2"
+        ],
+        "option_vals": [
+            "Never",
+            "Few times/month",
+            "Few times/week",
+            "A lot/week",
+            "Daily"
+        ]
+    },
+    "DWoVuh68di5e": {
+        "id": "DWoVuh68di5e",
+        "hrn": "How many times have you moved (from home to home and/or country to country)?",
+        "weights": [
+            2,
+            6,
+            4,
+            6,
+            2
+        ],
+        "option_ids": [
+            "M9o1lWzJS127",
+            "kgwRpfMY1SVJ",
+            "KM9TDGRFuXId",
+            "1LCUfRABr9Z5",
+            "sCvTiHFhNkvZ"
+        ],
+        "option_vals": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "More than 3"
+        ]
+    },
+    "G25iomObacqv": {
+        "id": "G25iomObacqv",
+        "hrn": "How many times have you traveled outside your culture a year?",
+        "weights": [
+            1,
+            4,
+            1,
+            6,
+            1
+        ],
+        "option_ids": [
+            "7qFLUZnoxRwi",
+            "yKRCR9th3O7o",
+            "JesmR1FdslNM",
+            "eTrWgOUTQFBP",
+            "pdtIgiJWjBmq"
+        ],
+        "option_vals": [
+            "0-1 times",
+            "2 times within US",
+            "2 times to another country",
+            "3+ times within US",
+            "3+ times to another country"
+        ]
+    },
+    "rrBtUGELtFzr": {
+        "id": "rrBtUGELtFzr",
+        "hrn": "How often do you hang out with friends from a different background other than yours? (skin color, religion, gender, etc.)",
+        "weights": [
+            2,
+            6,
+            4,
+            6,
+            1
+        ],
+        "option_ids": [
+            "Z808n3noem3P",
+            "ijPjFBeDYOF0",
+            "shynxMaDqY2A",
+            "ZwegyNQ1E8yl",
+            "izBktnCpYxt7"
+        ],
+        "option_vals": [
+            "Never",
+            "Few times/month",
+            "Few times/week",
+            "A lot/week",
+            "Daily"
+        ]
+    },
+    "MX9BtDYfVZ3m": {
+        "id": "MX9BtDYfVZ3m",
+        "hrn": "How often do you speak the same way from home, school & the neighborhood?",
+        "weights": [
+            1,
+            2,
+            6,
+            6,
+            1
+        ],
+        "option_ids": [
+            "sFISgBEB6cys",
+            "7yEdob2KzSwN",
+            "X1wQGPg6811f",
+            "79WycOYLn1XR",
+            "ftJVynO8Yd4H"
+        ],
+        "option_vals": [
+            "Never",
+            "Few times/month",
+            "Few times/week",
+            "A lot/week",
+            "Daily"
+        ]
+    },
+    "3xb4mXcqatpA": {
+        "id": "3xb4mXcqatpA",
+        "hrn": "How often do you have paid/unpaid chores/jobs do you have in a week?",
+        "weights": [
+            2,
+            4,
+            2,
+            6,
+            1
+        ],
+        "option_ids": [
+            "O0ShTr8jsOZh",
+            "ILi0H91wRljp",
+            "5tjt9f4j1qDv",
+            "3CS6LVhChQol",
+            "SAQivFRE50qN"
+        ],
+        "option_vals": [
+            "Never",
+            "Few times/month",
+            "Few times/week",
+            "A lot/week",
+            "Daily"
+        ]
+    },
+    "jJdVSqisdYo8": {
+        "id": "jJdVSqisdYo8",
+        "hrn": "How often do you participate on a team sport or activity?",
+        "weights": [
+            2,
+            2,
+            4,
+            2,
+            6
+        ],
+        "option_ids": [
+            "l1q6QWXAk7Ug",
+            "zEeT4NUBkMJ5",
+            "BufxxxeGBFsm",
+            "0VnCwkR5okO9",
+            "4U68YlcIzH6F"
+        ],
+        "option_vals": [
+            "Never",
+            "Seasonal",
+            "Each month",
+            "Few times/week",
+            "Daily"
+        ]
+    },
+    "YJycItYH7f6l": {
+        "id": "YJycItYH7f6l",
+        "hrn": "How many teams do you play on?",
+        "weights": [
+            2,
+            2,
+            4,
+            2,
+            6
+        ],
+        "option_ids": [
+            "F48CA2PpruWu",
+            "FVXLCH3AiNXj",
+            "aALPJzWQyqoZ",
+            "xudXkNhrYYoU",
+            "dwwmEWNa4q2R"
+        ],
+        "option_vals": [
+            "I don't play",
+            "1 team",
+            "2 teams",
+            "3 teams",
+            "More than 3 teams"
+        ]
+    },
+    "9df4iU6c4cFE": {
+        "id": "9df4iU6c4cFE",
+        "hrn": "How often do you hang out with your friends?",
+        "weights": [
+            1,
+            1,
+            1,
+            1,
+            6
+        ],
+        "option_ids": [
+            "0MLC9a1n7gou",
+            "qkA4eccyN1LS",
+            "5SLwYwz3xlMW",
+            "c8B10ZejKM30",
+            "gAH6d1bC3Neq"
+        ],
+        "option_vals": [
+            "Never",
+            "Few times/month",
+            "1 group weekly/daily",
+            "2+ groups weekly",
+            "2+ groups daily"
+        ]
+    },
+    "BNY3oNrhQEXV": {
+        "id": "BNY3oNrhQEXV",
+        "hrn": "How many people (including you) do you live with at home?",
+        "weights": [
+            2,
+            4,
+            2,
+            1,
+            6
+        ],
+        "option_ids": [
+            "ItqJWYkhr0Z7",
+            "gPYHM0zFGFqs",
+            "UvL1BAEjmj8X",
+            "YZwY7LePGoe4",
+            "SlCBST12X7CV"
+        ],
+        "option_vals": [
+            "2-3 people",
+            "4 people",
+            "5 people",
+            "6 people",
+            "7+ people"
+        ]
+    },
+    "GvIfWuw5HutJ": {
+        "id": "GvIfWuw5HutJ",
+        "hrn": "How many people do you share a room to sleep in?",
+        "weights": [
+            2,
+            4,
+            2,
+            1,
+            6
+        ],
+        "option_ids": [
+            "1oUSngIU8hHM",
+            "laaTwHFdGODO",
+            "xOY2SkeiHzi0",
+            "AQgntcuaLgQX",
+            "ufUUtDRVjb7D"
+        ],
+        "option_vals": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4+"
+        ]
+    }
+}
